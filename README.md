@@ -2,7 +2,7 @@
 
 This repository contains all the small `.sh` scripts I used to set up my Raspberry Pi Zero 2 W cluster to host my [website](https://github.com/toastedden/toasted-den-website), [discord bot](https://github.com/toastedden/toastbot), and a few other projects.
 
-![The Bread Bin](https://i.ibb.co/LJ0zDNv/breadbin.png)
+![The Bread Bin](https://github.com/user-attachments/assets/d69abafc-4ee8-4701-b173-ad02eb2671e5)
 
 ## Using the Scripts
 
